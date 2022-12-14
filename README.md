@@ -15,6 +15,7 @@ This project is of a basic website that allows to checkout today's task from a l
 Html
 css
 javascript
+jest
 </a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -52,7 +53,7 @@ javascript
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://ameerhamzakhalid.github.io/todo-list/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,6 +143,11 @@ Example:
 - GitHub: [@ameerhamzakhalid](https://github.com/ameerhamzakhalid)
 - Twitter: [@twitterhandle](https://twitter.com/ameeerhamza1997)
 - LinkedIn: [Ameer Hamza](https://www.linkedin.com/in/choudhary-hamza-37b17a141/)
+
+👤 **Pacific**
+
+- GitHub: [@githubhandle](https://github.com/rugwizangoga)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/iradukunda-pacific-rugwizangoga)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
