@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hendridg/todo-list.git"
+    "url": "git+https://github.com/ameerhamzakhalid/todo-list"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hendridg/todo-list/issues"
+    "url": "https://github.com/ameerhamzakhalid/todo-list/issues"
   },
-  "homepage": "https://github.com/hendridg/todo-list#readme",
+  "homepage": "https://github.com/ameerhamzakhalid/todo-list#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.5.1",
